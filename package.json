@@ -3,7 +3,7 @@
   "private": true,
   "devDependencies": {
     "lerna": "3.22.1",
-    "husky": "4.3.0"
+    "husky": "5.0.9"
   },
   "workspaces": [
     "packages/*"
